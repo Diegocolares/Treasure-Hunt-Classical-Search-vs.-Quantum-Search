@@ -1,11 +1,5 @@
 # ============================================================
 # TREASURE HUNT: CLASSICAL vs QUANTUM SEARCH
-# Correção:
-# - quântico encontra em 6 passos
-# - clássico encontra em 36 passos
-# - clássico revela o tesouro no passo 36
-# - clássico não continua "vasculhando tudo" depois disso
-# Google Colab ready
 # ============================================================
 
 !pip -q install imageio
