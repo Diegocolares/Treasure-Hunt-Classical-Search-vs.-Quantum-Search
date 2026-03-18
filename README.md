@@ -96,7 +96,7 @@ Ao final, será gerado um arquivo GIF contendo a animação.
 Para exibir a animação no README:
 
 ```markdown
-![Animação](treasure_hunt_animation.gif))
+![Animação](treasure_hunt_animation.gif)
 ```
 
 ---
