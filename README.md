@@ -1,4 +1,5 @@
 # Treasure Hunt: Busca Clássica vs Busca Quântica
+![Animação](treasure_hunt_animation.gif)
 
 Este projeto apresenta uma visualização comparativa entre busca clássica e busca quântica inspirada no algoritmo de Grover. A proposta é traduzir um conceito frequentemente abstrato em uma representação visual clara, permitindo compreender, de forma intuitiva, a origem da vantagem quântica.
 
@@ -91,16 +92,7 @@ Ao final, será gerado um arquivo GIF contendo a animação.
 
 ---
 
-## Visualização no repositório
-
-Para exibir a animação no README:
-
-```markdown
-![Animação](treasure_hunt_animation.gif)
-```
-
 ---
-
 ## Considerações finais
 
 Embora a animação não represente todos os detalhes formais do algoritmo de Grover, ela preserva sua característica essencial: a capacidade de amplificar a probabilidade do estado alvo por meio de evolução global do sistema.
